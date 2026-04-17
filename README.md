@@ -11,7 +11,7 @@
   Built with <code>discord.js</code> v14, ESM, and a single extensible command map—ship features, not boilerplate.
 </p>
 
---
+-
 
 ## Why this template
 
